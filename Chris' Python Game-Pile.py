@@ -1,7 +1,7 @@
 from tkinter import *
 from random import randint
 import time
-import tkinter.messagebox
+import tkinter.messagebox 
 
 #Formats and sets the overarching game window
 Game_Window = Tk()
